@@ -30,6 +30,15 @@ function About() {
                     and embraced various backend technologies such as Node.js and Django.
                     Additionally, I ventured into the world of databases, mastering CRED 
                     (Create, Read, Update, Delete) operations with MongoDB and MySQL.</p>
+                    <br />
+            <p className='text-xl'>Driven by self-motivation and a thirst for knowledge 
+            in the field of computer science, I am constantly seeking new challenges and
+             learning opportunities. My ability to quickly grasp new concepts and technologies
+              has allowed me to stay ahead of the curve.Beyond my technical skills, I possess decent
+               public speaking abilities and have a knack for presenting my ideas effectively.
+                This combination of technical expertise and strong communication skills enables me to deliver 
+            innovative solutions and effectively collaborate with others in the realm of computer science.
+            </p>
         </div>
     </div>
   )
